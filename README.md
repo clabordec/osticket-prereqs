@@ -27,9 +27,9 @@ This project outlines the prerequisites and installation of the open-source help
     - Name: osticket-vm
     - Password: Password123!
 - Log into the VM with Remote Desktop Connect
-- Download the [osTicket-Installation-Files.zip](https://drive.google.com/uc?export=download&id=1b3RBkXTLNGXbibeMuAynkfzdBC1NnqaD)
-- Item 4
-- Item 5
+- Download the [osTicket-Installation-Files.zip](https://drive.google.com/uc?export=download&id=1b3RBkXTLNGXbibeMuAynkfzdBC1NnqaD) and unzip it onto the Desktop
+- Install/Enable IIS in Windows with CGI
+    - World Wide Web Services ---> Application Development Features ---> CGI
 
 <h2>Installation Steps</h2>
 
