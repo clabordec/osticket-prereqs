@@ -25,6 +25,7 @@ This project outlines the prerequisites and installation of the open-source help
 - Create a Virtual Machine in Azure
     - OS: Windows 10
     - Name: osticket-vm
+    - Username: claborde-osticket
     - Password: Password123!
 - Log into the VM with Remote Desktop Connect
 - Download the [osTicket-Installation-Files.zip](https://drive.google.com/uc?export=download&id=1b3RBkXTLNGXbibeMuAynkfzdBC1NnqaD) and unzip it onto the Desktop
