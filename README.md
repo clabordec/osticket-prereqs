@@ -36,11 +36,9 @@ This project outlines the prerequisites and installation of the open-source help
 
 <h2>Installation Steps</h2>
 
+### From the `osTicket-Installation-Files` folder, install PHP Manager for IIS
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+<img src="https://github.com/user-attachments/assets/230aed93-6d3c-4fa4-82b5-9ac28999cf87" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
