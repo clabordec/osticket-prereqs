@@ -3,7 +3,7 @@
 </p>
 
 <h1>osTicket - Prerequisites and Installation</h1>
-This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
+This project outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
 
 
 <h2>Video Demonstration</h2>
@@ -22,9 +22,12 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Item 1
-- Item 2
-- Item 3
+- Create a Virtual Machine in Azure
+    - OS: Windows 10
+    - Name: osticket-vm
+    - Password: Password123!
+- Log into the VM with Remote Desktop Connect
+- Download the [osTicket-Installation-Files.zip](https://drive.google.com/uc?export=download&id=1b3RBkXTLNGXbibeMuAynkfzdBC1NnqaD)
 - Item 4
 - Item 5
 
