@@ -83,6 +83,6 @@ This project outlines the prerequisites and installation of the open-source help
 <img src="https://github.com/user-attachments/assets/9517972f-7795-4835-b84f-fc07d73ed47e" width="500" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-<img src="https://github.com/user-attachments/assets/8fa29612-3083-4008-b288-0c3224699cc7" width="500" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/a1cbdd14-e178-492d-b14b-bee3792b2302" width="500" alt="Disk Sanitization Steps"/>
 </p>
 
