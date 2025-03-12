@@ -130,3 +130,28 @@ This project outlines the prerequisites and installation of the open-source help
 </p>
 <br />
 
+## Installing osTicket
+### From the `osTicket-Installation-Files` folder, unzip the `osTicket-v1.15.8.zip` file and copy the "upload" folder into `C:\inetpub\wwwroot` directory
+<p>
+<img src="https://github.com/user-attachments/assets/97526b21-bca6-4945-8585-d6bb0e2f8a77" width="500" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<img src="https://github.com/user-attachments/assets/c0461e8a-8c3a-47fd-812c-277ea40ac13f" width="500" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<img src="https://github.com/user-attachments/assets/49481ea0-e082-4ec1-9723-ba5846ca75ce" width="500" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<img src="https://github.com/user-attachments/assets/80ec812b-121d-42ad-b2b0-6cc0c766e2d7" width="500" alt="Disk Sanitization Steps"/>
+</p>
+
+### Within the `C:\inetpub\wwwroot` directory, rename the folder "upload" to "osTicket"
+<p>
+<img src="https://github.com/user-attachments/assets/0bceb21c-6a25-42a5-9081-5a5c9cb94f8e" width="500" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<img src="https://github.com/user-attachments/assets/4fd51b82-e71f-40e8-9362-1278846ae052" width="500" alt="Disk Sanitization Steps"/>
+</p>
+
+
+
