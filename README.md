@@ -180,7 +180,7 @@ This project outlines the prerequisites and installation of the open-source help
 </p>
 <br />
 
-### Enable extensions `php_imap.dll`, `php_intl.dll` and `php_opacje.dll`
+### Enable extensions `php_imap.dll`, `php_intl.dll` and `php_imap.dll`
 <p>
 <img src="https://github.com/user-attachments/assets/f08198a8-d561-4acb-928f-be266fb65491" width="500" alt="Disk Sanitization Steps"/>
 </p>
@@ -201,18 +201,18 @@ This project outlines the prerequisites and installation of the open-source help
 
 ### php_intl.dll
 <p>
-<img src="https://github.com/user-attachments/assets/41757042-24f8-4145-8866-c7774d0491a1" width="500" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/c0071632-b4ea-493d-91db-86cbb2bf88c8" width="500" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-<img src="https://github.com/user-attachments/assets/41757042-24f8-4145-8866-c7774d0491a1" width="500" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/e53fd626-b5fc-4451-a9b1-6e85035530e8" width="500" alt="Disk Sanitization Steps"/>
 </p>
 
-### php_opacje.dll
+### php_imap.dll
 <p>
-<img src="https://github.com/user-attachments/assets/41757042-24f8-4145-8866-c7774d0491a1" width="500" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/a6719c54-efe1-45c3-aee0-bb647f7612cc" width="500" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-<img src="https://github.com/user-attachments/assets/41757042-24f8-4145-8866-c7774d0491a1" width="500" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/a9986aad-a853-42ea-8adb-4112056ad3ce" width="500" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
