@@ -218,9 +218,13 @@ This project outlines the prerequisites and installation of the open-source help
 
 ### All of the required extensions should now have a green check mark next to them
 <p>
+<img src="https://github.com/user-attachments/assets/fd713ac3-e94e-4143-8a27-6808d18565c5" width="500" alt="Disk Sanitization Steps"/>
+</p>
+<p>
 <img src="https://github.com/user-attachments/assets/55418420-69e3-404a-91c0-cfffeac90b67" width="500" alt="Disk Sanitization Steps"/>
 </p>
 <br />
+
 
 ### Renaming the osTicket sample configuration file
 <p>
