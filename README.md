@@ -86,3 +86,23 @@ This project outlines the prerequisites and installation of the open-source help
 <img src="https://github.com/user-attachments/assets/a1cbdd14-e178-492d-b14b-bee3792b2302" width="500" alt="Disk Sanitization Steps"/>
 </p>
 
+### Set the MysQL Instance to Standard
+<p>
+<img src="https://github.com/user-attachments/assets/73760383-d570-4fd5-bba2-d8281974d9a7" width="500" alt="Disk Sanitization Steps"/>
+</p>
+
+### Install the following as a Windows Service
+<p>
+<img src="https://github.com/user-attachments/assets/f1fc6751-f388-4ab8-8022-afd65d1dee4a" width="500" alt="Disk Sanitization Steps"/>
+</p>
+
+### Set the password to `root`
+<p>
+<img src="https://github.com/user-attachments/assets/efe6e911-3ba1-40c8-8af4-f2030470e32c" width="500" alt="Disk Sanitization Steps"/>
+</p>
+
+### Click execute to allow the windows machine to execute the following steps then click finish
+<p>
+<img src="https://github.com/user-attachments/assets/86a81870-e5b3-48d2-bed7-80d262752d7d" width="500" alt="Disk Sanitization Steps"/>
+</p>
+
