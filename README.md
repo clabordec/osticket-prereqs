@@ -56,6 +56,10 @@ This project outlines the prerequisites and installation of the open-source help
 
 ### Create a directory in the C drive called `PHP`, then unzip the `PHP 7.3.8` from the `osTicket-Installation-Files` folder
 <p>
-<img src="https://github.com/user-attachments/assets/cf54af58-deec-4445-8e58-8c2bbbdae509" width="500" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/9041149d-6909-4fc1-bd48-36581eefabdc" width="500" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<img src="https://github.com/user-attachments/assets/50960973-de1e-4c42-938f-e585926b248e" width="500" alt="Disk Sanitization Steps"/>
 </p>
 <br />
+
