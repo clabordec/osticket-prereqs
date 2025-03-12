@@ -254,7 +254,21 @@ This project outlines the prerequisites and installation of the open-source help
 <p>
 <img src="https://github.com/user-attachments/assets/ae573ffe-617e-4636-a42c-2a75a0970de4" width="500" alt="Disk Sanitization Steps"/>
 </p>
+<p>
+<img src="https://github.com/user-attachments/assets/7d732d59-51a1-41a0-b9aa-30ad27c3d966" width="500" alt="Disk Sanitization Steps"/>
+</p>
 <br />
+
+### Setting up osTicket on the browser
+<p>
+<img src="https://github.com/user-attachments/assets/6d317628-9f0f-4e4a-97a4-21b21f1a6fe2" width="500" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<img src="https://github.com/user-attachments/assets/cbfe8bcd-5c2b-4714-82d2-2bba6a8940f9" width="500" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+
+
 
 
 
