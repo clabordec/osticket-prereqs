@@ -69,6 +69,8 @@ This project outlines the prerequisites and installation of the open-source help
 </p>
 <br />
 
-
-
+### From the `osTicket-Installation-Files` folder, install the Microsoft Visual C++ 2015-2022 Redistributable executable file
+<p>
+<img src="https://github.com/user-attachments/assets/cdc4df73-302e-43d4-8bca-cf02b203a029" width="500" alt="Disk Sanitization Steps"/>
+</p>
 
