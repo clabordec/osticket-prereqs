@@ -108,6 +108,7 @@ This project outlines the prerequisites and installation of the open-source help
 </p>
 <br />
 
+
 ## Configuring IIS
 ### Open IIS as an admin
 <p>
@@ -129,6 +130,7 @@ This project outlines the prerequisites and installation of the open-source help
 <img src="https://github.com/user-attachments/assets/5d373aa2-d2c3-4bd8-b251-c1fb0940c88e" width="500" alt="Disk Sanitization Steps"/>
 </p>
 <br />
+
 
 ## Installing osTicket
 ### From the `osTicket-Installation-Files` folder, unzip the `osTicket-v1.15.8.zip` file and copy the "upload" folder into `C:\inetpub\wwwroot` directory
@@ -153,5 +155,64 @@ This project outlines the prerequisites and installation of the open-source help
 <img src="https://github.com/user-attachments/assets/4fd51b82-e71f-40e8-9362-1278846ae052" width="500" alt="Disk Sanitization Steps"/>
 </p>
 
+### Reload the IIS server
+<p>
+<img src="https://github.com/user-attachments/assets/f561a108-c7c8-4d15-a8a9-d75c0ed5c8fe" width="500" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<img src="https://github.com/user-attachments/assets/e38c9098-6567-4691-8329-960276470a13" width="500" alt="Disk Sanitization Steps"/>
+<br />
 
+### The osTicket website should now be available
+<p>
+<img src="https://github.com/user-attachments/assets/e78ae976-aa55-4e37-a00f-379c20aaa42d" width="500" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+
+
+## Configuring osTicket
+### Go to Sites --> Default --> osTicket and on the right of the application, click `Browse *:80`
+<p>
+<img src="https://github.com/user-attachments/assets/66972603-cb48-4515-9d3d-1110d94f8fe0" width="500" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<img src="https://github.com/user-attachments/assets/a6396dea-de42-4ad2-a7c1-943d189378dc" width="500" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+
+### Enable extensions `php_imap.dll`, `php_intl.dll` and `php_opacje.dll`
+<p>
+<img src="https://github.com/user-attachments/assets/f08198a8-d561-4acb-928f-be266fb65491" width="500" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<img src="https://github.com/user-attachments/assets/e5c94fdb-4c5f-4ee3-a6ad-a925234b0fe1" width="500" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<img src="https://github.com/user-attachments/assets/e5c94fdb-4c5f-4ee3-a6ad-a925234b0fe1" width="500" alt="Disk Sanitization Steps"/>
+</p>
+
+### php_imap.dll
+<p>
+<img src="https://github.com/user-attachments/assets/41757042-24f8-4145-8866-c7774d0491a1" width="500" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<img src="https://github.com/user-attachments/assets/8fc9145d-73ca-476d-b5de-164b29b1fd46" width="500" alt="Disk Sanitization Steps"/>
+</p>
+
+### php_intl.dll
+<p>
+<img src="https://github.com/user-attachments/assets/41757042-24f8-4145-8866-c7774d0491a1" width="500" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<img src="https://github.com/user-attachments/assets/41757042-24f8-4145-8866-c7774d0491a1" width="500" alt="Disk Sanitization Steps"/>
+</p>
+
+### php_opacje.dll
+<p>
+<img src="https://github.com/user-attachments/assets/41757042-24f8-4145-8866-c7774d0491a1" width="500" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<img src="https://github.com/user-attachments/assets/41757042-24f8-4145-8866-c7774d0491a1" width="500" alt="Disk Sanitization Steps"/>
+</p>
+<br />
 
