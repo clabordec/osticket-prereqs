@@ -46,9 +46,9 @@ This project outlines the prerequisites and installation of the open-source help
 </p>
 <br />
 
-### 
+### From the `osTicket-Installation-Files` folder, install the Rewrite Module
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/0a50462c-a127-4d9b-a7e1-6fffc45b6ea5" width="500" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
