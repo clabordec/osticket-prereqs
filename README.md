@@ -296,7 +296,35 @@ This project outlines the prerequisites and installation of the open-source help
 <p>
 <img src="https://github.com/user-attachments/assets/cc164ca9-5eb8-4186-ae88-e66fb91aee76" width="500" alt="Disk Sanitization Steps"/>
 </p>
+<p>
+<img src="https://github.com/user-attachments/assets/1266883a-e6f0-4e25-9dc6-1f975531ece3" width="500" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<img src="https://github.com/user-attachments/assets/5af1f038-d106-462f-85bf-6e70c2eccc25" width="500" alt="Disk Sanitization Steps"/>
+</p>
 <br />
+
+
+## Continuing the Setup in the browser
+### Set the MySQL database to `osTicket`, set the username/password to `root`, then click install now
+<p>
+<img src="https://github.com/user-attachments/assets/ef9dd9b7-06be-4ee6-8b0b-edba448c4bac" width="500" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+
+
+## Final Results
+<p>
+<img src="https://github.com/user-attachments/assets/75e3bf9f-bf2f-4ed3-895a-e769a31bf695" width="500" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+
+
+## End Users osTicket UI
+<p>
+<img src="https://github.com/user-attachments/assets/ab9cce06-8e03-4dce-82bf-a3af4369c3ff" width="500" alt="Disk Sanitization Steps"/>
+</p>
+
 
 
 
