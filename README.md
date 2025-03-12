@@ -115,4 +115,9 @@ This project outlines the prerequisites and installation of the open-source help
 </p>
 <br />
 
+### Register PHP from within IIS
+<p>
+<img src="https://github.com/user-attachments/assets/31d07241-6183-4fbb-9698-f3ea1300d606" width="500" alt="Disk Sanitization Steps"/>
+</p>
+<br />
 
