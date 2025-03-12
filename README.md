@@ -289,8 +289,14 @@ This project outlines the prerequisites and installation of the open-source help
 </p>
 <br />
 
-
-
+### Create a new database called `osTicket`
+<p>
+<img src="https://github.com/user-attachments/assets/cc164ca9-5eb8-4186-ae88-e66fb91aee76" width="500" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<img src="https://github.com/user-attachments/assets/cc164ca9-5eb8-4186-ae88-e66fb91aee76" width="500" alt="Disk Sanitization Steps"/>
+</p>
+<br />
 
 
 
