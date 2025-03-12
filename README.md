@@ -268,8 +268,26 @@ This project outlines the prerequisites and installation of the open-source help
 </p>
 <br />
 
+## Installing HeidiSQL
+### From the `osTicket-Installation-Files` folder, install HeidiSQL
+<p>
+<img src="https://github.com/user-attachments/assets/8adc0219-fd11-4f4f-9560-03c124c31e00" width="500" alt="Disk Sanitization Steps"/>
+</p>
+<br />
 
+### Create a new session
+<p>
+<img src="https://github.com/user-attachments/assets/d0e71023-6757-433f-b126-f4ae62ad9b1e" width="500" alt="Disk Sanitization Steps"/>
+</p>
 
+### Connect to the session, password is `root`
+<p>
+<img src="https://github.com/user-attachments/assets/af5f92e2-621f-42d2-8b8d-c7d8e09e271f" width="500" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<img src="https://github.com/user-attachments/assets/2ed0e29e-c745-411f-86e7-d55ad5b998cc" width="500" alt="Disk Sanitization Steps"/>
+</p>
+<br />
 
 
 
