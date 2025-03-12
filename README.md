@@ -216,3 +216,33 @@ This project outlines the prerequisites and installation of the open-source help
 </p>
 <br />
 
+### All of the required extensions should now have a green check mark next to them
+<p>
+<img src="https://github.com/user-attachments/assets/55418420-69e3-404a-91c0-cfffeac90b67" width="500" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+
+### Renaming the osTicket sample configuration file
+<p>
+<img src="https://github.com/user-attachments/assets/b4f9ab81-2735-48d0-8315-3c043c07df43" width="500" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<img src="https://github.com/user-attachments/assets/d199752a-37cd-40f1-8d30-dc2487bef87d" width="500" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+
+### Assigning Permissions for the osTicker configuration file
+<p>
+<img src="https://github.com/user-attachments/assets/fc75186e-28b0-4592-8def-7190e2521588" width="500" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<img src="https://github.com/user-attachments/assets/aec3f72a-9342-4457-8423-45834405b924" width="500" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<img src="https://github.com/user-attachments/assets/ce1d2312-6721-4fa4-b384-a44b564b9ce5" width="500" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+
+
+
+
