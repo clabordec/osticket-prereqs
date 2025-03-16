@@ -8,7 +8,7 @@ This project outlines the prerequisites and installation of the open-source help
 
 <h2>Video Demonstration</h2>
 
-- ### [Video Walkthrough](https://www.youtube.com)
+- ### [Project Walkthrough](https://www.youtube.com)
 
 <h2>Environments and Technologies Used</h2>
 
