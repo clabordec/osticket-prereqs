@@ -327,5 +327,7 @@ This project outlines the prerequisites and installation of the open-source help
 
 ---
 
+<br />
+
 # End of Project
 
